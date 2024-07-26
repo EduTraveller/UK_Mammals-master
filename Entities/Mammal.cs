@@ -12,7 +12,7 @@ namespace UK_Mammals.Entities
     // Represents a Mammal entity
     public class Mammal
     {
-        // Unique identifier for the Mammal
+        // Unique identifier for the Mammalssssss
         public int MammalID { get; set; }
         
         // Description of the mammal, with a maximum length of 1000 characters
